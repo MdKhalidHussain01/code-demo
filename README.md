@@ -1,4 +1,2 @@
-This is my first repo.
-<br>
-Author:-khalid Hussain
+thi is my first page
 
